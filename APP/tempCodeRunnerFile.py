@@ -1,0 +1,1 @@
+streamlit run "C:\Users\devje\OneDrive\Desktop\MACHINE LEARNING PROJECTS\CONTENT BASED MOVIE RECOMMENDER SYSTEM\APP\appp.py
