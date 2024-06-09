@@ -21,7 +21,7 @@ In today's world, where the options for entertainment are endless, a well-design
 
 - **Content-Based Filtering**: Recommends movies based on the similarity of their content.
 - **Cosine Similarity**: Uses cosine similarity to measure the similarity between movies.
-- **K-Means Clustering**: Groups similar movies together for more accurate recommendations.
+- **TF-IDF Vectorization**: Utilizes TF-IDF to represent plot summaries and other textual features in a meaningful way.
 - **Personalization**: Incorporates user feedback to continuously improve recommendations.
 
 ## Installation
@@ -30,7 +30,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/content-based-movie-recommender.git
+    git clone  https://github.com/devjeetsahoo/Movie-recommendation-system
     cd content-based-movie-recommender
     ```
 
@@ -91,7 +91,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or feedback, feel free to reach out to the project maintainer:
 
 - Devjeet
-- Email: your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: devjeet2004@gmail.com
+
 
 Thank you for using the Content-Based Movie Recommender System!
